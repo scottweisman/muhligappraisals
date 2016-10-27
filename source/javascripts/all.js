@@ -1,0 +1,6 @@
+//= require 'jquery-1.11.2.min'
+//= require 'bootstrap.min'
+//= require 'plugins/jquery.stellar.min'
+//= require 'plugins/owl.carousel.min'
+//= require 'theme'
+//= require 'navigation'

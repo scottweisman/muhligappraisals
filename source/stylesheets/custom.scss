@@ -1,0 +1,14 @@
+
+.logo a {
+  width: 321px;
+}
+
+.header-fixed .logo a {
+  width: 270px;
+}
+
+@media (max-width: 1024px) {
+  .header .logo a {
+    width: 240px;
+  }
+}
